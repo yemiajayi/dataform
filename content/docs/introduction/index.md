@@ -48,7 +48,7 @@ Learn more about how Dataform works.
 
 ## How can I use it?
 
-They are two main ways to work with Dataform. You can use <a target="_blank" rel="noopener" href="https://dataform.co">Dataform web</a> application with an Integrated Development Environment (IDE). You can also use Dataform locally using the Command Line Interface (CLI).
+There are two main ways to work with Dataform. You can use <a target="_blank" rel="noopener" href="https://dataform.co">Dataform web</a> application with an Integrated Development Environment (IDE). You can also use Dataform locally using the Command Line Interface (CLI).
 
 The core of Dataform is open source (Dataform compiler and runner) and can be used with the CLI.
 
